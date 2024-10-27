@@ -3,7 +3,7 @@ Very simple KeyGen for Windows 95
 
 there's not much to say really it's just a really shitty python code that generates Windows 95 keys :3
 
-### Structure
+### Structure (XXXYY-OEM-00SSSSS-ZZZZZ)
 
 ## XXX
 A three-digit number between 001 and 366, representing the day of the year.
